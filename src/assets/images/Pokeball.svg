@@ -1,0 +1,15 @@
+<svg width="52" height="52" viewBox="0 0 52 52" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="path-1-outside-1_20_18884" maskUnits="userSpaceOnUse" x="0" y="0" width="52" height="28" fill="black">
+<rect fill="white" width="52" height="28"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M50 26C50 12.7452 39.2548 2 26 2C12.7452 2 2 12.7452 2 26H50Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M50 26C50 12.7452 39.2548 2 26 2C12.7452 2 2 12.7452 2 26H50Z" fill="#F93333"/>
+<path d="M50 26V28H52V26H50ZM2 26H0V28H2V26ZM26 4C38.1503 4 48 13.8497 48 26H52C52 11.6406 40.3594 0 26 0V4ZM4 26C4 13.8497 13.8497 4 26 4V0C11.6406 0 0 11.6406 0 26H4ZM2 28H50V24H2V28Z" fill="black" mask="url(#path-1-outside-1_20_18884)"/>
+<mask id="path-3-outside-2_20_18884" maskUnits="userSpaceOnUse" x="0" y="24" width="52" height="28" fill="black">
+<rect fill="white" y="24" width="52" height="28"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M2 26C2 39.2548 12.7452 50 26 50C39.2548 50 50 39.2548 50 26L2 26Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M2 26C2 39.2548 12.7452 50 26 50C39.2548 50 50 39.2548 50 26L2 26Z" fill="white"/>
+<path d="M2 26V24H0V26H2ZM50 26H52V24H50V26ZM26 48C13.8497 48 4 38.1503 4 26H0C0 40.3594 11.6406 52 26 52V48ZM48 26C48 38.1503 38.1503 48 26 48V52C40.3594 52 52 40.3594 52 26H48ZM50 24L2 24V28L50 28L50 24Z" fill="black" mask="url(#path-3-outside-2_20_18884)"/>
+<circle cx="26" cy="26" r="5" fill="white" stroke="black" stroke-width="2"/>
+</svg>
